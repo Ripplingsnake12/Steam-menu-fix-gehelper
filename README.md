@@ -4,7 +4,7 @@
 + Type services into windows search and disable Armoury Crate SE.
 + Open Ghelper and set to run at startup.
 + Goto Extras and Stop asus services.
-+ While in Extra goto Command Centre key open and choose custom, across from the custom box type this , no spaces 0x85
++ While in Extra goto Command Centre key open and choose "custom", across from the custom box type this- 0x85
 + Exit Ghelper
 + Set steam to run on startup and in Big Picture Mode
 # Run Steammenu.exe as administrator.
