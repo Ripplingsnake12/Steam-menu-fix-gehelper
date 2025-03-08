@@ -1,1 +1,1 @@
-# I have included to useful bats, the Login one bypasses your lockscrenn to make it a more console like experiance, the Boot.bat make it easy to select safe mode and normal boot , useful if you want to use DDU uninstaller to install your GFX drivers cleanly
+# I have included to useful bats, the Login one bypasses your lockscreen to make it a more console like experiance, the Boot.bat make it easy to select safe mode and normal boot , useful if you want to use DDU uninstaller to install your GFX drivers cleanly
